@@ -600,7 +600,8 @@
   }
 
   .p-nav__container {
-    padding-left: 520px;
+    width: 900px;
+    margin: 0 auto;
   }
 
   .p-nav__container:nth-child(5) {
