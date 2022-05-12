@@ -76,7 +76,7 @@
 @media screen and (max-width: 599px) {
     /* SP style */
 .p-hamburger {
-  position: absolute;
+  position: relative;
   right: 10px;
   height: 22px;
   width: 28px;
