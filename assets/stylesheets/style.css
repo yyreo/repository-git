@@ -150,6 +150,7 @@
 
 .p-keyword {
   display: flex;
+  justify-content: flex-end;
   width: 70%;
 }
 
@@ -182,7 +183,7 @@
 
 .p-keyword__container {
   display: flex;
-  padding-left: 72px;
+  margin-right: 56px;
 }
 
 .p-hero {
